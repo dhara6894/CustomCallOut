@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2904746F1E77FF4200392725 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2904746D1E77FF4200392725 /* SecondViewController.swift */; };
 		290474701E77FF4200392725 /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2904746E1E77FF4200392725 /* SecondViewController.xib */; };
+		290474721E7928BF00392725 /* AnnotationCallOut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290474711E7928BF00392725 /* AnnotationCallOut.swift */; };
 		2913089B1E77CEB4001AD76C /* CallOutView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2913089A1E77CEB4001AD76C /* CallOutView.xib */; };
 		2913089D1E77D06E001AD76C /* CalloutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913089C1E77D06E001AD76C /* CalloutView.swift */; };
 		2913089F1E77D4B8001AD76C /* AnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2913089E1E77D4B8001AD76C /* AnnotationView.swift */; };
@@ -22,6 +23,7 @@
 /* Begin PBXFileReference section */
 		2904746D1E77FF4200392725 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		2904746E1E77FF4200392725 /* SecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
+		290474711E7928BF00392725 /* AnnotationCallOut.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnnotationCallOut.swift; sourceTree = "<group>"; };
 		2913089A1E77CEB4001AD76C /* CallOutView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CallOutView.xib; sourceTree = "<group>"; };
 		2913089C1E77D06E001AD76C /* CalloutView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalloutView.swift; sourceTree = "<group>"; };
 		2913089E1E77D4B8001AD76C /* AnnotationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnnotationView.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 			children = (
 				2913089E1E77D4B8001AD76C /* AnnotationView.swift */,
 				29EAA7D61E72A9DC008B48D4 /* AppDelegate.swift */,
+				290474711E7928BF00392725 /* AnnotationCallOut.swift */,
 				29EAA7D81E72A9DC008B48D4 /* ViewController.swift */,
 				2904746D1E77FF4200392725 /* SecondViewController.swift */,
 				2904746E1E77FF4200392725 /* SecondViewController.xib */,
@@ -156,6 +159,7 @@
 				2904746F1E77FF4200392725 /* SecondViewController.swift in Sources */,
 				29EAA7D91E72A9DC008B48D4 /* ViewController.swift in Sources */,
 				2913089F1E77D4B8001AD76C /* AnnotationView.swift in Sources */,
+				290474721E7928BF00392725 /* AnnotationCallOut.swift in Sources */,
 				29EAA7D71E72A9DC008B48D4 /* AppDelegate.swift in Sources */,
 				2913089D1E77D06E001AD76C /* CalloutView.swift in Sources */,
 			);
